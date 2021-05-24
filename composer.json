@@ -10,19 +10,19 @@
     }
   ],
   "require": {
-    "php": "^7.4",
-    "symfony/http-kernel": "^5.0",
-    "symfony/dependency-injection": "^5.0",
-    "symfony/config": "^5.0",
-    "symfony/proxy-manager-bridge": "^5.0",
+    "php": ">=7.4",
+    "symfony/http-kernel": "^5.2",
+    "symfony/dependency-injection": "^5.2",
+    "symfony/config": "^5.2",
+    "symfony/proxy-manager-bridge": "^5.2",
     "vklymniuk/dto-mapper": "^0.4",
-    "doctrine/annotations": "^1.8"
+    "doctrine/annotations": "^1.13"
   },
   "require-dev": {
     "roave/security-advisories": "dev-master",
     "phpunit/phpunit": "^7.4",
-    "symfony/framework-bundle": "^5.0",
-    "symfony/yaml": "^5.0"
+    "symfony/framework-bundle": "^5.2",
+    "symfony/yaml": "^5.2"
   },
   "autoload": {
     "psr-4": {

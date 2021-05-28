@@ -1,5 +1,5 @@
 {
-  "name": "vklymniuk/dto-mapper-bundle",
+  "name": "symfony-ext/dto-mapper-bundle",
   "type": "library",
   "description": "Symfony mapper bundle, easy way to convert data.",
   "license": "MIT",
@@ -23,7 +23,7 @@
     "symfony/dependency-injection": "^5.2",
     "symfony/config": "^5.2",
     "symfony/proxy-manager-bridge": "^5.2",
-    "vklymniuk/dto-mapper": "^0.4",
+    "symfony-ext/dto-mapper": "^0.4",
     "doctrine/annotations": "^1.13"
   },
   "require-dev": {

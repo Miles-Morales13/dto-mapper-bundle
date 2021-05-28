@@ -19,7 +19,7 @@ VKMapperBundle uses customized performance strategies:
 The suggested installation method's via [composer](https://getcomposer.org/):
 
 ```sh
-php composer.phar require vklymniuk/dto-mapper-bundle
+php composer.phar require symfony-ext/dto-mapper-bundle
 ```
  
 ## Setup
